@@ -29,5 +29,26 @@ cd weather-app
 ```bash 
 npm install
 
+### 3. Get API Key from WeatherAPI
 
+- **Sign up on WeatherAPI to get a free API key.**
+
+## Usage
+
+### Run the Application
+- To start the application in development mode with Vite:
+
+```bash
+npm run dev 
+
+-The app will open at http://localhost:3000 (or another available port) in your default browser.
+
+### License
+
+- This project is licensed under the MIT License. See the LICENSE file for more details.
+
+
+### Contact
+
+-Created by Dhiraj Bhawsar - feel free to reach out!
 
