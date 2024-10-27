@@ -22,3 +22,12 @@ This is a simple and responsive weather application built using **React.js**, **
 ```bash
 git clone https://github.com/yourusername/weather-app.git
 cd weather-app
+
+
+### 2. Install Dependencies
+
+```bash 
+npm install
+
+
+
